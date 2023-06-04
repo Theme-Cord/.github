@@ -1,4 +1,4 @@
-# 🎨 ThemeCord
+# <img src="https://raw.githubusercontent.com/Theme-Cord/.github/main/avatar2.png" width="30" height="30"/> ThemeCord
 
 ThemeCord is a lightweight application developed by [ThemeCord](https://github.com/Theme-Cord) that allows users to customize the appearance of their Discord client using custom CSS themes. With ThemeCord, users can apply beautiful themes to personalize their Discord experience.
 
