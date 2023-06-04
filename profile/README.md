@@ -35,7 +35,7 @@ Contributions to ThemeCord are welcome! If you encounter any issues or have sugg
 
 ## 📄 License
 
-ThemeCord is licensed under the [MIT License](LICENSE).
+ThemeCord is licensed under the [Apache License 2.0](LICENSE).
 
 ## ⚠️ Disclaimer
 
