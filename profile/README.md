@@ -1,5 +1,9 @@
 # <img src="https://raw.githubusercontent.com/Theme-Cord/.github/main/avatar2.png" width="30" height="30"/> ThemeCord [[DISCORD (+)](https://discord.gg/FTK3txBsAS)]
 
+## ⚠️ Disclaimer
+
+ThemeCord is a third-party application and is not affiliated with or endorsed by Discord and is against the Terms of Service of Discord. Use it at your own risk.
+##
 ThemeCord is a lightweight application developed by [ThemeCord](https://github.com/Theme-Cord) that allows users to customize the appearance of their Discord client using custom CSS themes. With ThemeCord, users can apply beautiful themes to personalize their Discord experience.
 
 ## ✨ Features
@@ -36,7 +40,3 @@ Contributions to ThemeCord are welcome! If you encounter any issues or have sugg
 ## 📄 License
 
 ThemeCord is licensed under the [Apache License 2.0](LICENSE).
-
-## ⚠️ Disclaimer
-
-ThemeCord is a third-party application and is not affiliated with or endorsed by Discord. Use it at your own risk.
